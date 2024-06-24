@@ -1,2 +1,1 @@
-# .github
-Soze Technologies
+# Sozo Technologies
